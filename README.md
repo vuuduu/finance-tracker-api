@@ -1,2 +1,2 @@
 # finance-tracker-api
-Contains all the api endpoint for a full stack finance application
+Contains all the api endpoints for a full stack finance application
