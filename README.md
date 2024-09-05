@@ -9,7 +9,7 @@ Contains all the api endpoints for a full stack finance application
 ![image](https://github.com/user-attachments/assets/4904eaa2-d492-4a0f-9654-2190f483d480)
 
 
-## Finance Tracker Table and Description
+## Finance Tracker Table and Description (Revision 1)
 * **Tracker_Account Table**
   * ta_id ⇒ (Primary Key), identifier
   * username ⇒ (Unique)
