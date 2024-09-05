@@ -2,7 +2,12 @@
 Contains all the api endpoints for a full stack finance application
 
 ## Finance Tracker Schema 
+### Revision 1
 ![image](https://github.com/user-attachments/assets/d5ba4046-aee6-4698-8ebb-8a27b1473cac)
+
+### Revision 2
+![image](https://github.com/user-attachments/assets/4904eaa2-d492-4a0f-9654-2190f483d480)
+
 
 ## Finance Tracker Table and Description
 * **Tracker_Account Table**
